@@ -12,7 +12,6 @@
   - { role: role_cloud , tags: "role_cloud"} 
   - { role: role_nginx , tags: "role_nginx"}
   
-  - { role: role_docker , tags: "role_docker"}
   
   - { role: memcached , tags: "memcached"}
   - { role: role_init , tags: "role_init"}  
