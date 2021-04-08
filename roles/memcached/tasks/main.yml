@@ -7,9 +7,6 @@
     path: "/data/memcached"
     state: directory
     recurse: yes
-  loop: 
-    - /data/db/postgresql
-    - /data/db/redis
 
 - name: Clone superset in Websoft9 
   git:
