@@ -12,13 +12,7 @@ This repository is an **Cloud Native solution** powered by [Websoft9](https://ww
 
 The following are the minimal recommended requirements:
 
-* **OS**: 64-bit Red Hat, CentOS, 64-bit Debian, Ubuntu or other compatible distributive with kernel version 3.8 or later
-* **ARCH**: amd64
-* **RAM**: 4 GB or more
-* **CPU**: dual-core 2 GHz or higher
-* **HDD**: at least 2 GB of free space
-* **Swap file**: at least 2 GB
-* **Docker version**: 1.9.0 or later
+
 
 To learn more, refer to the [Recommended System Requirements](https://github.com/ONLYOFFICE/Docker-CommunityServer#recommended-system-requirements): 
 
